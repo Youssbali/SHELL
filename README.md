@@ -2,7 +2,7 @@
 
 Ce programme permet de développer un interpréteur de commandes simplifié, offrant les fonctionnalités de base des shells Unix, comme le bash.
 
-Question 1 et 2 (Lancement d’une commande) Réealiser la boucle de base de l’interpréteur.
+Question 1 et 2 (Lancement d’une commande) Réaliser la boucle de base de l’interpréteur.\n
 Question 3 (Enchaînement séquentiel des commandes).
 Question 4 (Commandes internes): cd et exit.
 Question 5 (Lancement de commandes en tâche de fond): waitpid ou wait.
